@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1623241401 source:f:\argouml\projectcode\owncode\recruitment\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"employee.h"
+	"admin.h"
+	"applicant.h"
+
+1623048386 f:\argouml\projectcode\owncode\recruitment\employee.h
+	<string>
+
+1623144415 source:f:\argouml\projectcode\owncode\recruitment\resume.cpp
+	<iostream>
+	"employee.h"
+
+1623160465 f:\argouml\projectcode\owncode\recruitment\admin.h
+	<string>
+
+1623165628 source:f:\argouml\projectcode\owncode\recruitment\admin.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<vector>
+	<string.h>
+	<sstream>
+	"employee.h"
+	"admin.h"
+	"jobs.h"
+
+1623160465 f:\argouml\projectcode\owncode\recruitment\applicant.h
+	<string>
+
+1623165332 source:f:\argouml\projectcode\owncode\recruitment\applicant.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	"employee.h"
+	"admin.h"
+	<vector>
+	<sstream>
+
+1476071734 c:\program files\codeblocks\mingw\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476071748 c:\program files\codeblocks\mingw\include\mysql_com.h
+
+1476071774 c:\program files\codeblocks\mingw\include\mysql_time.h
+
+1476071784 c:\program files\codeblocks\mingw\include\mysql_version.h
+	<custom_conf.h>
+
+1476071924 c:\program files\codeblocks\mingw\include\typelib.h
+
+1476071970 c:\program files\codeblocks\mingw\include\my_list.h
+
+1476071978 c:\program files\codeblocks\mingw\include\my_alloc.h
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1569559578 c:\program files\mysql\mysql server 5.7\include\mysql_version.h
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\binary_log_types.h
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\my_command.h
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql_time.h
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\my_list.h
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\typelib.h
+	"my_alloc.h"
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1569555016 c:\program files\mysql\mysql server 5.7\include\mysql\psi\psi_base.h
+
+1623160462 f:\argouml\projectcode\owncode\recruitment\jobs.h
+	<string>
+
+1623162795 source:f:\argouml\projectcode\owncode\recruitment\jobs.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<vector>
+	<string.h>
+	<sstream>
+	"employee.h"
+	"admin.h"
+	"jobs.h"
+
